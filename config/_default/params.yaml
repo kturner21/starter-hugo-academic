@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
+    org_name: 'Watson Institute, Brown University'
+    description: 'Kimberly Turner is a postdoctoral fellow at the Watson Institute at Brown University'
+    twitter: '@PureKimminess'
+ analytics:
+    google_analytics: 'G-TNL8HYK20X'
     baidu_tongji: ''
   verification:
     google: ''
@@ -112,3 +112,32 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+ # Contact Information
+
+email: kimberly_turner@brown.edu
+#phone: Uncomment this to add a phone number
+address:
+#  street: 1121 Union Circle
+ # city: Denton
+#  region: TX
+#  postcode: '76201'
+#  country: United States
+#  country_code: US
+#coordinates:
+#  latitude: '33.210190'
+#  longitude: '-97.145579'
+#office_hours:
+ # - 'Monday 1:30 PM to 3:00 PM'
+#  - 'Friday 2:00 PM to 3:00 PM'
+#appointment_url: 'https://calendly.com'
+#contact_links:
+  - icon: twitter
+ #   icon_pack: fab
+ #   name: DM Me
+ #   link: 'https://twitter.com/adamjnafa'
+#  - icon: linkedin
+#    icon_pack: fab
+#    name: Linked In
+#    link: 'https://linkedin.com/in/jordan-nafa-78599abb'
+   
