@@ -5,6 +5,7 @@
 
 title: Kimberly N. Turner #website name
 baseURL: 'https://example.com/' # Website URL
+copyright: '' #Change this to you
 
 ############################
 ## LANGUAGE
